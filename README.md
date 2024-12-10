@@ -14,6 +14,3 @@ Project 9: Web services including eXtensible Markup Language
 Project 10: Demonstrating Kernel Density Estimation
 Project 11: Bivariate Distribution plot
 Project 12: Retrieving image over HTTP, parsing HTML and scraping the web
-
-
-
