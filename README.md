@@ -2,8 +2,6 @@ This repository contains various data visualization projects that utilize Python
 
 Table of Contents
 
-Table of Contents
-
 - **Project 1:** Statistical Analysis of Apple Stock Data  
 - **Project 2:** TikTok Video Performance Analysis  
 - **Project 3:** Comparison and Composition Plots  
