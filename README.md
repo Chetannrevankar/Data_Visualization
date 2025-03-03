@@ -45,5 +45,3 @@ Welcome to the **Data Visualization Projects Repository!** 🎨📈 This reposit
 
 - **🌐 Project 12:** Retrieving Image Over HTTP, Parsing HTML, and Scraping the Web 🖼️🌍  
   Hands-on web scraping and data extraction techniques.
-
----
